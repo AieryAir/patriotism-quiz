@@ -24,6 +24,9 @@ body {
 .image {
     display: inline-flex;
     margin: 20px;
+    border-style:groove;
+    border-radius: 2px;
+    border-color: black;
 }
 
 .question {
