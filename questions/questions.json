@@ -1,0 +1,14 @@
+[
+  {
+    "no": 1,
+    "question": "What is the standard weapon",
+    "choices": ["M4A1", "AK-47", "GALIL", "M14"],
+    "answer": "AK-47"
+  },
+  {
+    "no": 2,
+    "question": "What happened during September 11, 2001",
+    "choices": ["The biggest victory of mankind", "The worst terrorist attack in the US", "I never listened history class", "skibidi fortnite"],
+    "answer": "The biggest victory of mankind"
+  }
+]
